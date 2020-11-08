@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "540696380299",
+    "firebase_url": "https://gfive-dfe67.firebaseio.com",
+    "project_id": "gfive-dfe67",
+    "storage_bucket": "gfive-dfe67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540696380299:android:c1b8ae0ad8b4ba7153658e",
+        "android_client_info": {
+          "package_name": "com.Blazebrain.gfive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540696380299-g9af8j0q925susot21j966dniqt7mt5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Blazebrain.gfive",
+            "certificate_hash": "99d7a9eab3eba733c4a3ab54a969e40621e2e61f"
+          }
+        },
+        {
+          "client_id": "540696380299-vhiv946tgl31uor2pn092ur1m5ufanlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2XYa-oWw-8_TGVK-vOTcNNBACwSP9_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540696380299-vhiv946tgl31uor2pn092ur1m5ufanlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
